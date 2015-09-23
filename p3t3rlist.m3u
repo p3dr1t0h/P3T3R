@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Liga BBVA
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/119.m3u8
-#EXTINF:-1,HOLLYWOOD
-http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
 #EXTINF:-1,by_hichrawi_CANAL+
 http://adil:movistarfullexchange@movistartdt.mine.nu:8000/1.ch CANAL+
 #EXTINF:-1,by_hichrawi_C+ ACCION
@@ -27,127 +23,25 @@ http://adil:movistarfullexchange@movistartdt.mine.nu:8000/10.ch HISTORIA
 http://adil:movistarfullexchange@movistartdt.mine.nu:8000/11.ch FOX
 #EXTINF:-1,by_hichrawi_AXN
 http://adil:movistarfullexchange@movistartdt.mine.nu:8000/12.ch AXN
-#EXTINF:-1,by_hichrawi_MOVISTAR MOTO GP
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/13.ch MOVISTAR MOTO GP
-#EXTINF:-1,by_hichrawi_MOVISTAR F1
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/14.ch MOVISTAR F1
-#EXTINF:-1,by_hichrawi_CAZA Y PESCA
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/15.ch CAZA Y PESCA
-#EXTINF:-1,by_hichrawi_COSMO
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/16.ch COSMO
-#EXTINF:-1,by_hichrawi_A E
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/17.ch A E
+#EXTINF:-1,Liga BBVA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/119.m3u8
 #EXTINF:-1,by_hichrawi_C+ DEPORTE
 http://adil:movistarfullexchange@movistartdt.mine.nu:8000/18.ch C+ DEPORTE
-#EXTINF:-1,by_hichrawi_CANAL+ GOLF
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/19.ch CANAL+ GOLF
 #EXTINF:-1,by_hichrawi_C+ LIGA
 http://adil:movistarfullexchange@movistartdt.mine.nu:8000/20.ch C+ LIGA
-#EXTINF:-1,by_hichrawi_CANAL LIGA HD FIBRA O BUEN ADSL
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/21.ch CANAL LIGA HD FIBRA O BUEN ADSL
 #EXTINF:-1,by_hichrawi_C+ FUTBOL
 http://adil:movistarfullexchange@movistartdt.mine.nu:8000/22.ch C+ FUTBOL
 #EXTINF:-1,by_hichrawi_EUROSPORT-ES
 http://adil:movistarfullexchange@movistartdt.mine.nu:8000/23.ch EUROSPORT-ES
 #EXTINF:-1,by_hichrawi_EUROSPORT2 ESP
 http://adil:movistarfullexchange@movistartdt.mine.nu:8000/24.ch EUROSPORT2 ESP
-#EXTINF:-1,by_hichrawi_TDP HD
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/25.ch TDP HD
-#EXTINF:-1,by_hichrawi_TDP
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/26.ch TDP
-#EXTINF:-1,by_hichrawi_SOL MUSICA
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/27.ch SOL MUSICA
-#EXTINF:-1,by_hichrawi_LA 1 HD
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/28.ch LA 1 HD
-#EXTINF:-1,by_hichrawi_LA 1
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/29.ch LA 1
-#EXTINF:-1,by_hichrawi_LA 2
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/30.ch LA 2
-#EXTINF:-1,by_hichrawi_ANTENA 3 HD
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/31.ch ANTENA 3 HD
-#EXTINF:-1,by_hichrawi_ANTENA 3
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/32.ch ANTENA 3
-#EXTINF:-1,by_hichrawi_CUATRO HD
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/33.ch CUATRO HD
-#EXTINF:-1,by_hichrawi_CUATRO
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/34.ch CUATRO
-#EXTINF:-1,by_hichrawi_TELECINCO HD
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/35.ch TELECINCO HD
-#EXTINF:-1,by_hichrawi_TELECINCO
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/36.ch TELECINCO
-#EXTINF:-1,by_hichrawi_LASEXTA HD
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/37.ch LASEXTA HD
-#EXTINF:-1,by_hichrawi_LA SEXTA
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/38.ch LA SEXTA
-#EXTINF:-1,by_hichrawi_DISCOVERY MAX
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/39.ch DISCOVERY MAX
-#EXTINF:-1,by_hichrawi_FDF
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/40.ch FDF
-#EXTINF:-1,by_hichrawi_DIVINITY
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/41.ch DIVINITY
-#EXTINF:-1,by_hichrawi_Neox
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/42.ch Neox
-#EXTINF:-1,by_hichrawi_NOVA
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/43.ch NOVA
-#EXTINF:-1,by_hichrawi_MEGA
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/44.ch MEGA
-#EXTINF:-1,by_hichrawi_ENERGY
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/45.ch ENERGY
-#EXTINF:-1,by_hichrawi_CLAN
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/46.ch CLAN
-#EXTINF:-1,by_hichrawi_DISNEY CHANNEL
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/47.ch DISNEY CHANNEL
-#EXTINF:-1,by_hichrawi_BOING
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/48.ch BOING
-#EXTINF:-1,by_hichrawi_24 HORAS
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/49.ch 24 HORAS
-#EXTINF:-1,by_hichrawi_CANAL SUR
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/50.ch CANAL SUR
-#EXTINF:-1,by_hichrawi_CASTILLA LA MANCHA
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/51.ch CASTILLA LA MANCHA
-#EXTINF:-1,by_hichrawi_TELEMADRID HD
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/52.ch TELEMADRID HD
-#EXTINF:-1,by_hichrawi_TELEMADRID
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/53.ch TELEMADRID
-#EXTINF:-1,by_hichrawi_LA OTRA
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/54.ch LA OTRA
-#EXTINF:-1,by_hichrawi_BARCA TV
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/55.ch BARCA TV
-#EXTINF:0,beIN SportsÑ
-rtmp://$OPT:rtmp-raw=rtmp://181.214.35.7:19350/live/ playpath=iecaiuMiwDFL swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=521&vw=650&vh=400
-#EXTINF:-1,by_hichrawi_CANAL LIGA 2
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/56.ch CANAL LIGA 2
-#EXTINF:-1,by_hichrawi_CANAL LIGA 2 A
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/57.ch CANAL LIGA 2 A
-#EXTINF:-1,by_hichrawi_CANAL LIGA2 B
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/58.ch CANAL LIGA2 B
-#EXTINF:-1,by_hichrawi_MULTIDEPORTE 6
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/59.ch MULTIDEPORTE 6
-#EXTINF:-1,by_hichrawi_MULTIDEPORTE 7
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/60.ch MULTIDEPORTE 7
-#EXTINF:-1,by_hichrawi_PARTIDAZO HD
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/61.ch PARTIDAZO HD
-#EXTINF:-1,by_hichrawi_CANAL PARTIDAZO
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/62.ch CANAL PARTIDAZO
-#EXTINF:-1,by_hichrawi_BEIN ESPANA
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/63.ch BEIN ESPANA
-#EXTINF:0,beIN Sports 1
-http://176.9.35.85/20/fucktabonmokIl121/index.m3u8
-#EXTINF:0,beIN Sports 2
-http://176.9.35.85/20/fucktabonmokhaha2121/index.m3u8
-#EXTINF:0,beIN Sports 3
-http://176.9.35.85/20/fucktabonmok3000/index.m3u8
-#EXTINF:0,beIN Sports 4
-http://176.9.35.85/20/fucktabonsIlnmok04/index.m3u8
-#EXTINF:0,beIN Sports 5
-http://176.9.35.85/20/fucktoftabonmok57/index.m3u8
-#EXTINF:0,beIN Sports 6
-http://176.9.35.85/20/fucktabondimokk6611/index.m3u8
-#EXTINF:0,beIN Sports 7
-http://176.9.35.85/20/fucktabonmok770377/index.m3u8
-#EXTINF:0,beIN Sports 8
-http://176.9.35.85/20/fuckmok8/index.m3u8
-#EXTINF:0,beIN Sports 9
-http://176.9.35.85/20/fuckmok9/index.m3u8
-#EXTINF:0,beIN Sports 10
-http://176.9.35.85/20/fuckmok10/index.m3u8
+#EXTINF:-1,DIRECTV SPORTS 
+http://185.63.255.26/live/max26a1/chunks.m3u8?nimblesessionid=136013
+#EXTINF:-1, WWE
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/138.m3u8
+#EXTINF:-1, UFC
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/75.m3u8
+#EXTINF:-1, SPN
+rtmp://$OPT:rtmp-raw=rtmp://89.33.8.14/live?token=aRaWgW7y0Md5KVUiGR3a7wExpired=1442953314 playpath=ver8512763648167ef2c296ed swfUrl=http://www.openlive.org/player.swf live=1 pageUrl=http://openlive.org/embed.php?file=maxtresc&width=650&height=400
+#EXTINF:-1, SPN2
+rtmp://89.33.8.14/live?token=aRaWgW7y0Md5KVUiGR3a7wExpired=1442953314 playpath=ver8512763648167ef2c296ed swfUrl=http://www.openlive.org/player.swf live=1 pageUrl=http://openlive.org/embed.php?file=maxtresc&width=650&height=400
