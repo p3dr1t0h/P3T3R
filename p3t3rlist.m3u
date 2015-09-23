@@ -41,7 +41,7 @@ http://185.63.255.26/live/max26a1/chunks.m3u8?nimblesessionid=136013
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/138.m3u8
 #EXTINF:-1, UFC
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/75.m3u8
-#EXTINF:-1, SPN
-rtmpe://r.livecast.cc/rl/ playpath=bob10sd swfUrl=http://livecast.cc/player/player.swf live=1 pageUrl=http://livecast.cc/live/stream22.ph  
+#EXTINF:-1,+liga
+rtmp://$OPT:rtmp-raw=rtmp://209.133.208.50/app/ playpath=totalspo7s-channel swfUrl=https://streamup.com/assets/StreamupVideoPlayer.swf live=1 pageUrl=https://streamup.com/totalspo7/embeds/video?startMuted=true
 #EXTINF:-1, SPN2
-http://livecast.cc/live/stream22.ph
+http://209.133.208.50:1935/app/totalspo7s-channel/playlist.m3u8
