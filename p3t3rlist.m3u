@@ -1,40 +1,46 @@
 #EXTM3U
-#EXTINF:-1,by_hichrawi_CANAL+
+#EXTINF:-1,CANAL+
 http://adil:movistarfullexchange@movistartdt.mine.nu:8000/1.ch CANAL+
-#EXTINF:-1,by_hichrawi_C+ ACCION
+#EXTINF:-1,C+ ACCION
 http://adil:movistarfullexchange@movistartdt.mine.nu:8000/2.ch C+ ACCION
-#EXTINF:-1,by_hichrawi_C+ COMEDIA
+#EXTINF:-1,C+ COMEDIA
 http://adil:movistarfullexchange@movistartdt.mine.nu:8000/3.ch C+ COMEDIA
-#EXTINF:-1,by_hichrawi_C+ DCINE
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/4.ch C+ DCINE
-#EXTINF:-1,by_hichrawi_C+ ESTRENOS
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/5.ch C+ ESTRENOS
-#EXTINF:-1,by_hichrawi_CANAL+ SERIES EXTRA
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/6.ch CANAL+ SERIES EXTRA
-#EXTINF:-1,by_hichrawi_De Cine espanol
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/7.ch De Cine espanol
-#EXTINF:-1,by_hichrawi_ODISEA
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/8.ch ODISEA
-#EXTINF:-1,by_hichrawi_NATIONAL GEOGRAPHIC
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/9.ch NATIONAL GEOGRAPHIC
-#EXTINF:-1,by_hichrawi_HISTORIA
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/10.ch HISTORIA
-#EXTINF:-1,by_hichrawi_FOX
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/11.ch FOX
-#EXTINF:-1,by_hichrawi_AXN
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/12.ch AXN
+#EXTINF:-1,ODISEA
+http://88.0.241.107:4022/udp/239.0.0.22:8208
+#EXTINF:-1,HISTORIA
+http://88.0.241.107:4022/udp/239.0.0.19:8208
+#EXTINF:-1,TCM HD
+http://88.0.241.107:4022/udp/239.0.5.89:8208
+#EXTINF:-1,Syfy HD
+http://88.0.241.107:4022/udp/239.0.5.75:8208
+#EXTINF:-1,FOX
+http://88.0.241.107:4022/udp/239.0.0.74:8208
+#EXTINF:-1,CALLE 13
+http://88.0.241.107:4022/udp/239.0.0.13:8208
+#EXTINF:-1,Syfy HD
+http://88.0.241.107:4022/udp/239.0.0.164:8208
+#EXTINF:-1,AXN
+http://88.0.241.107:4022/udp/239.0.0.14:8208
 #EXTINF:-1,Liga BBVA
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/119.m3u8
-#EXTINF:-1,by_hichrawi_C+ DEPORTE
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/18.ch C+ DEPORTE
-#EXTINF:-1,by_hichrawi_C+ LIGA
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/20.ch C+ LIGA
-#EXTINF:-1,by_hichrawi_C+ FUTBOL
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/22.ch C+ FUTBOL
-#EXTINF:-1,by_hichrawi_EUROSPORT-ES
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/23.ch EUROSPORT-ES
-#EXTINF:-1,by_hichrawi_EUROSPORT2 ESP
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/24.ch EUROSPORT2 ESP
+#EXTINF:-1,C+ LIGA
+http://88.0.241.107:4022/udp/239.0.0.42:8208
+#EXTINF:-1,Canal+ Liga De Campeones
+http://88.0.241.107:4022/udp/239.0.0.118:8208
+#EXTINF:-1,Canal+ liga Multi
+http://88.0.241.107:4022/udp/239.0.0.119:8208
+#EXTINF:-1,Gol TV 2
+http://88.0.241.107:4022/udp/239.0.0.251:8208
+#EXTINF:-1,Canal+ Liga De Campeones 9
+http://88.0.241.107:4022/udp/239.0.3.2:8208
+#EXTINF:-1,Canal+ Liga De Campeones 2 ES
+http://88.0.241.107:4022/udp/239.0.3.3:8208
+#EXTINF:-1,Canal+ liga
+http://88.0.241.107:4022/udp/239.0.3.8:8208
+#EXTINF:-1,Canal+ Liga De Campeones 8 ES
+http://88.0.241.107:4022/udp/239.0.3.9:8208
+#EXTINF:-1,EUROSPORT-ES
+http://88.0.241.107:4022/udp/239.0.0.18:8208
 #EXTINF:-1,DIRECTV SPORTS 
 http://185.63.255.26/live/max26a1/chunks.m3u8?nimblesessionid=136013
 #EXTINF:-1, WWE
