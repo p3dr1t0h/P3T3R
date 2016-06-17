@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,ESPN Brasil
+http://79.124.58.34:1935/liveedge/ch01-1/playlist.m3u8
+#EXTINF:-1,ESPN+
+http://79.124.58.34:1935/liveedge/ch03-1/playlist.m3u8
+#EXTINF:-1,Sport TV
+http://79.124.58.34:1935/liveedge/ch05-1/playlist.m3u8
+#EXTINF:-1,Sport TV 2
+http://79.124.58.34:1935/liveedge/ch06-1/playlist.m3u8
+#EXTINF:-1,Sport TV 3
+http://79.124.58.34:1935/liveedge/ch07-1/playlist.m3u8
 #EXTINF:-1,AR: beIN Sport Max 1
 http://62.210.148.126:2500/live/CZIRINADOLES/CZIRINADOLES/3315.ts
 #EXTINF:-1,AR: beIN Sport Max 2
