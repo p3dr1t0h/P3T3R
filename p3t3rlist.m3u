@@ -1,49 +1,183 @@
 #EXTM3U
-#EXTINF:-1,CANAL+
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/1.ch CANAL+
-#EXTINF:-1,C+ ACCION
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/2.ch C+ ACCION
-#EXTINF:-1,C+ COMEDIA
-http://adil:movistarfullexchange@movistartdt.mine.nu:8000/3.ch C+ COMEDIA
-#EXTINF:-1,ODISEA
-http://88.0.241.107:4022/udp/239.0.0.22:8208
-#EXTINF:-1,HISTORIA
-http://88.0.241.107:4022/udp/239.0.0.19:8208
-#EXTINF:-1,TCM HD
-http://88.0.241.107:4022/udp/239.0.5.89:8208
-#EXTINF:-1,Syfy HD
-http://88.0.241.107:4022/udp/239.0.5.75:8208
-#EXTINF:-1,FOX
-http://88.0.241.107:4022/udp/239.0.0.74:8208
-#EXTINF:-1,CALLE 13
-http://88.0.241.107:4022/udp/239.0.0.13:8208
-#EXTINF:-1,Syfy HD
-http://88.0.241.107:4022/udp/239.0.0.164:8208
-#EXTINF:-1,AXN
-http://88.0.241.107:4022/udp/239.0.0.14:8208
-#EXTINF:-1,Liga BBVA
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/119.m3u8
-#EXTINF:-1,C+ LIGA
-http://88.0.241.107:4022/udp/239.0.0.42:8208
-#EXTINF:-1,Canal+ Liga De Campeones
-http://88.0.241.107:4022/udp/239.0.0.118:8208
-#EXTINF:-1,Canal+ liga Multi
-http://88.0.241.107:4022/udp/239.0.0.119:8208
-#EXTINF:-1,Gol TV 2
-http://88.0.241.107:4022/udp/239.0.0.251:8208
-#EXTINF:-1,Canal+ Liga De Campeones 9
-http://88.0.241.107:4022/udp/239.0.3.2:8208
-#EXTINF:-1,Canal+ Liga De Campeones 2 ES
-http://88.0.241.107:4022/udp/239.0.3.3:8208
-#EXTINF:-1,Canal+ liga
-http://88.0.241.107:4022/udp/239.0.3.8:8208
-#EXTINF:-1,Canal+ Liga De Campeones 8 ES
-http://88.0.241.107:4022/udp/239.0.3.9:8208
-#EXTINF:-1,EUROSPORT-ES
-http://88.0.241.107:4022/udp/239.0.0.18:8208
-#EXTINF:-1,DIRECTV SPORTS 
-http://185.63.255.26/live/max26a1/chunks.m3u8?nimblesessionid=136013
-#EXTINF:-1, WWE
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/138.m3u8
-#EXTINF:-1, UFC
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/75.m3u8
+#EXTINF:-1 tvg-name=">>>>>>> Espagne Channel <<<<<<<<<" tvg-logo="",>>>>>>> Espagne Channel <<<<<<<<<
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1971.ts
+#EXTINF:-1 tvg-name="ES: CANAL PARTIDAZO" tvg-logo="",ES: CANAL PARTIDAZO
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2433.ts
+#EXTINF:-1 tvg-name="ES: CANAL PARTIDAZO HD" tvg-logo="",ES: CANAL PARTIDAZO HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2513.ts
+#EXTINF:-1 tvg-name="ES: CANAL LIGA" tvg-logo="",ES: CANAL LIGA
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1785.ts
+#EXTINF:-1 tvg-name="ES: CANAL LIGA HD" tvg-logo="",ES: CANAL LIGA HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2516.ts
+#EXTINF:-1 tvg-name="ES: CANAL LIGA HD 2" tvg-logo="",ES: CANAL LIGA HD 2
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2517.ts
+#EXTINF:-1 tvg-name="ES: ABONO FUTBOL HD" tvg-logo="",ES: ABONO FUTBOL HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2514.ts
+#EXTINF:-1 tvg-name="ES: CANAL DEPORTE SD" tvg-logo="",ES: CANAL DEPORTE SD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2432.ts
+#EXTINF:-1 tvg-name="ES: CANAL DEPORTE HD" tvg-logo="",ES: CANAL DEPORTE HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2518.ts
+#EXTINF:-1 tvg-name="ES: Canal+Futbol" tvg-logo="",ES: Canal+Futbol
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1787.ts
+#EXTINF:-1 tvg-name="ES: CANAL FUTBOL HD" tvg-logo="",ES: CANAL FUTBOL HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2519.ts
+#EXTINF:-1 tvg-name="ES: CANAL DCINE" tvg-logo="",ES: CANAL DCINE
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1765.ts
+#EXTINF:-1 tvg-name="ES: CANAL DCINE HD" tvg-logo="",ES: CANAL DCINE HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2521.ts
+#EXTINF:-1 tvg-name="ES: CANAL TOROS" tvg-logo="",ES: CANAL TOROS
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1922.ts
+#EXTINF:-1 tvg-name="ES : CANAL TOROS HD" tvg-logo="",ES : CANAL TOROS HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2525.ts
+#EXTINF:-1 tvg-name="ES: CANAL SERIES" tvg-logo="",ES: CANAL SERIES
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2419.ts
+#EXTINF:-1 tvg-name="ES: CANAL SERIES HD" tvg-logo="",ES: CANAL SERIES HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2522.ts
+#EXTINF:-1 tvg-name="ES: CANAL  COMEDIA" tvg-logo="",ES: CANAL  COMEDIA
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1766.ts
+#EXTINF:-1 tvg-name="ES: CANAL COMEDIA HD" tvg-logo="",ES: CANAL COMEDIA HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2524.ts
+#EXTINF:-1 tvg-name="ES: CANAL MUSICA" tvg-logo="",ES: CANAL MUSICA
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2428.ts
+#EXTINF:-1 tvg-name="ES: CANAL ESTRENOS" tvg-logo="",ES: CANAL ESTRENOS
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2427.ts
+#EXTINF:-1 tvg-name="ES: CANAL ESTRENOS HD" tvg-logo="",ES: CANAL ESTRENOS HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2523.ts
+#EXTINF:-1 tvg-name="ES: C+ ACCION" tvg-logo="",ES: C+ ACCION
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2425.ts
+#EXTINF:-1 tvg-name="ES: C+  ACCION HD" tvg-logo="",ES: C+  ACCION HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2520.ts
+#EXTINF:-1 tvg-name="ES: CANAL PLUS" tvg-logo="",ES: CANAL PLUS
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2424.ts
+#EXTINF:-1 tvg-name="ES: CANAL PLUS HD" tvg-logo="",ES: CANAL PLUS HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2512.ts
+#EXTINF:-1 tvg-name="ES: CASA Y PESCA" tvg-logo="",ES: CASA Y PESCA
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2429.ts
+#EXTINF:-1 tvg-name="ES: CANAL SERIE XTRA" tvg-logo="",ES: CANAL SERIE XTRA
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2426.ts
+#EXTINF:-1 tvg-name="ES: CANAL GOLF" tvg-logo="",ES: CANAL GOLF
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1903.ts
+#EXTINF:-1 tvg-name="ES: CANAL XTRA" tvg-logo="",ES: CANAL XTRA
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2526.ts
+#EXTINF:-1 tvg-name="ES: Canal Cocina" tvg-logo="",ES: Canal Cocina
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2430.ts
+#EXTINF:-1 tvg-name="ES: Movistar moto gp" tvg-logo="",ES: Movistar moto gp
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1916.ts
+#EXTINF:-1 tvg-name="ES: Movistar F1" tvg-logo="",ES: Movistar F1
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1915.ts
+#EXTINF:-1 tvg-name="ES: BEIN espana" tvg-logo="",ES: BEIN espana
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1807.ts
+#EXTINF:-1 tvg-name="ES: Beinsport HD" tvg-logo="",ES: Beinsport HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2515.ts
+#EXTINF:-1 tvg-name="ES: TELECINCO" tvg-logo="",ES: TELECINCO
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1767.ts
+#EXTINF:-1 tvg-name="ES: TELECINCO HD" tvg-logo="",ES: TELECINCO HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2511.ts
+#EXTINF:-1 tvg-name="ES: SyFy HD" tvg-logo="",ES: SyFy HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1791.ts
+#EXTINF:-1 tvg-name="ES: TAQUILLA 1" tvg-logo="",ES: TAQUILLA 1
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2722.ts
+#EXTINF:-1 tvg-name="ES: TAQUILLA 2" tvg-logo="",ES: TAQUILLA 2
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2723.ts
+#EXTINF:-1 tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="",ES: DISCOVERY CHANNEL HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2724.ts
+#EXTINF:-1 tvg-name="ES : COMEDY CENTRAL HD" tvg-logo="",ES : COMEDY CENTRAL HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1907.ts
+#EXTINF:-1 tvg-name="ES: DCINE ESPANOL" tvg-logo="",ES: DCINE ESPANOL
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2529.ts
+#EXTINF:-1 tvg-name="ES: CUATRO SD" tvg-logo="",ES: CUATRO SD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1769.ts
+#EXTINF:-1 tvg-name="ES: CUATRO HD" tvg-logo="",ES: CUATRO HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2510.ts
+#EXTINF:-1 tvg-name="ES: PROYECTO 40" tvg-logo="",ES: PROYECTO 40
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2437.ts
+#EXTINF:-1 tvg-name="ES: La 1" tvg-logo="",ES: La 1
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2531.ts
+#EXTINF:-1 tvg-name="ES: La 2" tvg-logo="",ES: La 2
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2532.ts
+#EXTINF:-1 tvg-name="ES : Viajar HD" tvg-logo="",ES : Viajar HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1909.ts
+#EXTINF:-1 tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="",ES: NATIONAL GEOGRAPHIC
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2421.ts
+#EXTINF:-1 tvg-name="ES: Music capital" tvg-logo="",ES: Music capital
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2441.ts
+#EXTINF:-1 tvg-name="ES: MTV" tvg-logo="",ES: MTV
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2702.ts
+#EXTINF:-1 tvg-name="ES: levante" tvg-logo="",ES: levante
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2440.ts
+#EXTINF:-1 tvg-name="ES: INTERECONOMIA" tvg-logo="",ES: INTERECONOMIA
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2439.ts
+#EXTINF:-1 tvg-name="ES: MEGA" tvg-logo="",ES: MEGA
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2721.ts
+#EXTINF:-1 tvg-name="ES: HUESCA TV" tvg-logo="",ES: HUESCA TV
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2438.ts
+#EXTINF:-1 tvg-name="ES: EURONEWS" tvg-logo="",ES: EURONEWS
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2444.ts
+#EXTINF:-1 tvg-name="ES: TCM" tvg-logo="",ES: TCM
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2528.ts
+#EXTINF:-1 tvg-name="ES: ENERGY" tvg-logo="",ES: ENERGY
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2530.ts
+#EXTINF:-1 tvg-name="ES: Baby TV" tvg-logo="",ES: Baby TV
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2527.ts
+#EXTINF:-1 tvg-name="ES: C7 MURCIA" tvg-logo="",ES: C7 MURCIA
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2443.ts
+#EXTINF:-1 tvg-name="ES: BARCA TV" tvg-logo="",ES: BARCA TV
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2445.ts
+#EXTINF:-1 tvg-name="ES: AYE" tvg-logo="",ES: AYE
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2442.ts
+#EXTINF:-1 tvg-name="ES: LaSextaHD" tvg-logo="",ES: LaSextaHD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1768.ts
+#EXTINF:-1 tvg-name="ES: KISS TV" tvg-logo="",ES: KISS TV
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1927.ts
+#EXTINF:-1 tvg-name="ES: Odisea HD" tvg-logo="",ES: Odisea HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1912.ts
+#EXTINF:-1 tvg-name="ES: Hollywood HD" tvg-logo="",ES: Hollywood HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1773.ts
+#EXTINF:-1 tvg-name="ES: History" tvg-logo="",ES: History
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1928.ts
+#EXTINF:-1 tvg-name="ES: Galicia TV" tvg-logo="",ES: Galicia TV
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1920.ts
+#EXTINF:-1 tvg-name="ES: fox sport 2" tvg-logo="",ES: fox sport 2
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2435.ts
+#EXTINF:-1 tvg-name="ES: fox sport 1" tvg-logo="",ES: fox sport 1
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2434.ts
+#EXTINF:-1 tvg-name="ES: FOX Life" tvg-logo="",ES: FOX Life
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1771.ts
+#EXTINF:-1 tvg-name="ES: FOX" tvg-logo="",ES: FOX
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1790.ts
+#EXTINF:-1 tvg-name="ES: Extremadura Tv" tvg-logo="",ES: Extremadura Tv
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1904.ts
+#EXTINF:-1 tvg-name="ES: CALLE13" tvg-logo="",ES: CALLE13
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2422.ts
+#EXTINF:-1 tvg-name="ES: Axn White" tvg-logo="",ES: Axn White
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1786.ts
+#EXTINF:-1 tvg-name="ES: Antena 3" tvg-logo="",ES: Antena 3
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1770.ts
+#EXTINF:-1 tvg-name="ES: 40 TV" tvg-logo="",ES: 40 TV
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2423.ts
+#EXTINF:-1 tvg-name="ES: VEVO" tvg-logo="",ES: VEVO
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1925.ts
+#EXTINF:-1 tvg-name="ES: TVE 24 Hora" tvg-logo="",ES: TVE 24 Hora
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1923.ts
+#EXTINF:-1 tvg-name="ES: TVE3" tvg-logo="",ES: TVE3
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1919.ts
+#EXTINF:-1 tvg-name="ES: TVE 2" tvg-logo="",ES: TVE 2
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1918.ts
+#EXTINF:-1 tvg-name="ES: TVE" tvg-logo="",ES: TVE
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/2420.ts
+#EXTINF:-1 tvg-name="ES: TNT HD" tvg-logo="",ES: TNT HD
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1788.ts
+#EXTINF:-1 tvg-name="ES: Nat Geo Wild" tvg-logo="",ES: Nat Geo Wild
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1789.ts
+#EXTINF:-1 tvg-name="ES: FC SEVILLA" tvg-logo="",ES: FC SEVILLA
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1926.ts
+#EXTINF:-1 tvg-name="ES: Eurosport" tvg-logo="",ES: Eurosport
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1906.ts
+#EXTINF:-1 tvg-name="ES: DISNEY JUNIOR" tvg-logo="",ES: DISNEY JUNIOR
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1917.ts
+#EXTINF:-1 tvg-name="ES: Disney channel" tvg-logo="",ES: Disney channel
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1793.ts
+#EXTINF:-1 tvg-name="ES: AXNSpain" tvg-logo="",ES: AXNSpain
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1772.ts
+#EXTINF:-1 tvg-name="ES: Andalucia TV" tvg-logo="",ES: Andalucia TV
+http://iptv.re:80/live/free04-06-2016/www.iptv4free.com/1921.ts
